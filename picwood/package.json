@@ -1,0 +1,34 @@
+{
+  "name": "picwood",
+  "group": "underscore",
+  "team member": "Enxu Guan 10421626,  Ming-Ting Hsieh 10430934, Simin Liang 10431384,  Chieh Shih 10431509, Po-Yu Yang 10429094",
+  "version": "0.1.0",
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.18.0",
+    "bcrypt": "^2.0.1",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.0.18",
+    "node-schedule": "^1.3.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "semantic-ui-react": "^0.80.0",
+    "superagent": "^3.8.3"
+  },
+  "scripts": {
+    "server": "node ./server/server.js",
+    "client": "react-scripts start"
+  }
+}
